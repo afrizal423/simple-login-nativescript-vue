@@ -1,6 +1,4 @@
-<p align="right">
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
-</p>
+
 # Siamik Login App
 
 > A native application built with NativeScript-Vue
